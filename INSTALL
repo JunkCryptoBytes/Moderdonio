@@ -1,0 +1,9 @@
+Building Moderdonio
+
+See doc/readme-qt.rst for instructions on building Moderdonio-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Moderdonio.
+
+See doc/build-*.txt for instructions on building moderdoniod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Moderdonio.
