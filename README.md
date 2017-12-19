@@ -2,16 +2,16 @@
   <img src="https://i.imgur.com/zGVxbAh.png" title="Txemacoin Logo">
 </p>
 
-Ӎoderdonio
+Moderdonio ( Ӎ )
 ================================
 
-¿¿COOMOOO?!?!? ¿Qué es Ӎoderdonio?
+¿¿COOMOOO?!?!? ¿Qué es Moderdonio?
 ----------------
-Ӎoderdonio es la primera criptomoneda digital de Moderdonia.
+Moderdonio es la primera criptomoneda digital de Moderdonia.
 El primer país independiente digital, con autocracia como forma de gobierno, necesita su propia moneda.
 ¿Que es eso del euro, dolar y todas esas monedas de antiguonia?
 En Moderdonia apostamos por una moneda libre, descentralizada, digital, y lo más importante, que no tengamos ni idea de como funciona.
-Disponemos de 84.000.000 de monedas FUAAAAAAAAAAAAAA!!!! Ahora a buscale uso.
+Disponemos de  84 millones de monedas FUAAAAAAAAAAAAAA!!!! Ahora a buscale uso.
 
 Para obtener más información vea http://www.moderdonia.com.
 
